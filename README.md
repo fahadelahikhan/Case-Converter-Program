@@ -26,7 +26,7 @@ The Case Converter Program helps standardize variable and function naming across
 
 2. Run the application:
    ```bash
-   python main.py
+   python Case Converter Program.py
    ```
 
 ### Basic Usage
